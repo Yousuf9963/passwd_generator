@@ -27,7 +27,7 @@ pkg install python2
 
 pkg install python3
 
-clone the repository
+#clone the repository
 
 git clone https://github.com/Yousuf9963/passwd_generator.git
 
