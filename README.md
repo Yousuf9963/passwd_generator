@@ -9,7 +9,7 @@ orization. As the hash can be processed by a computer to recover the original 60
 
 # generate password and note them
 
-Installation
+# Installation
 
 # update and upgrade packages
 pkg update && pkg upgrade -y
