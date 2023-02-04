@@ -9,7 +9,7 @@ A password generator can be part of a password manager. When a password policy e
 Long strings of random characters are difficult for most people to memorize. Mnemonic hashes, which reversibly convert random strings into more memorable passwords, can substantially improve the ease of mem
 orization. As the hash can be processed by a computer to recover the original 60-bit string, it has at least as much information content as the original string.[1] Similar techniques are used in memory sport.
 
-# generate password and note them
+# Generate password and Note them.
 
 # Installation
 
