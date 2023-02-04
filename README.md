@@ -13,13 +13,10 @@ orization. As the hash can be processed by a computer to recover the original 60
 
 # Installation
 
-# update and upgrade packages
 pkg update && pkg upgrade -y
 
-# install git
-pkg install git
 
-# install python 2 and 3
+pkg install git
 
 pkg install python
 
@@ -27,17 +24,14 @@ pkg install python2
 
 pkg install python3
 
-#clone the repository
-
 git clone https://github.com/Yousuf9963/passwd_generator.git
 
-# Go to script
 
 cd passwd_generator
-
-#run python3 or python2 or python
 
 python3 generate_passwd.py
 
 
 # Please Support me
+
+https://www.buymeacoffee.com/junioprogrammer
